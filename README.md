@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wender Machado</h1>
-<h3 align="center">A passionate backend developer from Brazil</h3>
+<h3 align="center">A passionate Full Stack Engineer from Brazil</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wenderpmachado" alt="wenderpmachado" /> </p>
 
 - 🔭 I’m currently working on [QueroDelivery](https://querodelivery.com/)
