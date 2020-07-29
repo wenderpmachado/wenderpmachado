@@ -1,17 +1,25 @@
-<h1 align="center">Hi 👋, I'm Wender Machado</h1>
+<h1 align="center">
+  Hi 👋, I'm Wender Machado
+</h1>
 <h3 align="center">A passionate Full Stack Engineer from Brazil</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenderpmachado/)](https://www.linkedin.com/in/wenderpmachado/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/wenderpmachado)](https://instagram.com/wenderpmachado)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wenderpmachado@gmail.com)](mailto:wenderpmachado@gmail.com)
 
+<table>
+   <tr>
+      <td>
+        <img src="octocat.png" alt="typescript" width="300" height="300"/>
+      </td>
+     <td>
+       
 - 💼 I’m currently working on [QueroDelivery](https://querodelivery.com/) as a Software Engineer
-
-- 🎓 I'm majoring in **Bachelor of Information Systems** at [CEFET/RJ - Nova Friburgo](https://querobolsa.com.br/revista/50-melhores-faculdades-de-sistemas-de-informacao-segundo-o-mec)
+       
+- 🎓 I'm majoring in **Bachelor of Information Systems** at CEFET
 
 - 💻 I love **Javascript/Typescript/Node.js** ecosystem
 
-<p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
@@ -24,13 +32,13 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/>
-</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wenderpmachado&show_icons=true" alt="wenderpmachado" />
+     </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wenderpmachado&show_icons=true" alt="wenderpmachado" />
 </p>
-
-<p align="center">
-<a href="https://linkedin.com/in/wenderpmachado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="wenderpmachado" height="20" width="20" /></a>
-<a href="https://instagram.com/wenderpmachado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="wenderpmachado" height="20" width="20" /></a>
-<a href="mailto:wenderpmachado@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="wenderpmachado" height="20" width="20" /></a>
-</p>
+      </td>
+  </tr>
+</div>
