@@ -1,7 +1,9 @@
 <h1 align="center">
   Hi 👋, I'm Wender Machado
 </h1>
-<h3 align="center">A passionate Full Stack Engineer from Brazil</h3>
+<h3 align="center">
+  A passionate Full Stack Engineer from Brazil
+</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenderpmachado/)](https://www.linkedin.com/in/wenderpmachado/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/wenderpmachado)](https://instagram.com/wenderpmachado)
@@ -10,7 +12,7 @@
 <table>
    <tr>
       <td>
-        <img src="octocat.png" alt="typescript" width="300" height="300"/>
+        <img src="./octocat.png" alt="typescript" width="300" height="300"/>
       </td>
      <td>
        
