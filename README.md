@@ -12,7 +12,7 @@
 <table>
    <tr>
       <td>
-        <img src="./octocat.png" alt="typescript" width="300" height="300"/>
+        <img src="https://raw.githubusercontent.com/wenderpmachado/wenderpmachado/master/octocat.png" alt="Octocat" width="300" height="300"/>
       </td>
      <td>
        
