@@ -6,7 +6,7 @@
 </h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenderpmachado/)](https://www.linkedin.com/in/wenderpmachado/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/wenderpmachado)](https://instagram.com/wenderpmachado)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/wenderpmachado)](https://instagram.com/wenderpmachado)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wenderpmachado@gmail.com)](mailto:wenderpmachado@gmail.com)
 
 <table>
