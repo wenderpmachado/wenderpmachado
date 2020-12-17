@@ -5,9 +5,16 @@
   A passionate Full Stack Engineer from Brazil
 </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenderpmachado/)](https://www.linkedin.com/in/wenderpmachado/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/wenderpmachado)](https://instagram.com/wenderpmachado)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wenderpmachado@gmail.com)](mailto:wenderpmachado@gmail.com)
+<p align="left">
+  <a href="https://www.instagram.com/wenderpmachado/" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/wenderpmachado/"/></a>
+  
+  <a href="https://www.linkedin.com/in/wenderpmachado" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wenderpmachado" /></a>
+
+  <a href="mailto:wenderpmachado@gmail.com" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wenderpmachado@gmail.com"/></a>
+</p>
 
 <table>
    <tr>
