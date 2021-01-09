@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wenderpmachado@gmail.com"/></a>
 </p>
 
+<hr>
+
 <div>
        
   - 💼 I’m currently working on [QueroDelivery](https://querodelivery.com/) as a Software Engineer
@@ -23,7 +25,10 @@
   - 🎓 I'm majoring in **Bachelor of Information Systems** at CEFET
 
   - 💻 I love **Javascript/Typescript/Node.js** ecosystem
-
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wenderpmachado&show_icons=true&theme=tokyonight" alt="wenderpmachado" />
   
 </div>
+  
+<hr>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wenderpmachado&show_icons=true&theme=tokyonight" alt="wenderpmachado" />
+
