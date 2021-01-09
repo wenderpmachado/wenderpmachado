@@ -18,7 +18,7 @@
 
 <hr>
 
-<div>
+<p>
        
   - 💼 I’m currently working on [QueroDelivery](https://querodelivery.com/) as a Software Engineer
 
@@ -26,7 +26,7 @@
 
   - 💻 I love **Javascript/Typescript/Node.js** ecosystem
   
-</div>
+</p>
   
 <hr>
 
