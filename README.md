@@ -15,12 +15,13 @@
   <a href="mailto:wenderpmachado@gmail.com" alt="Facebook">
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wenderpmachado@gmail.com"/></a>
 </p>
-
 <table>
    <tr>
+     <!--
       <td>
         <img src="https://raw.githubusercontent.com/wenderpmachado/wenderpmachado/master/octocat.png" alt="Octocat" width="300" height="300"/>
       </td>
+       -->
      <td>
        
 - 💼 I’m currently working on [QueroDelivery](https://querodelivery.com/) as a Software Engineer
@@ -29,6 +30,7 @@
 
 - 💻 I love **Javascript/Typescript/Node.js** ecosystem
 
+<!--
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/>
@@ -42,7 +44,10 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="php" width="30" height="30"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="30" height="30"/>
 
-     </td>
+     </td> 
+     
+     -->
+     
   </tr>
   <tr>
     <td colspan="2">
