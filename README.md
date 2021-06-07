@@ -2,7 +2,7 @@
   Hi 👋, I'm Wender Machado
 </h1>
 <h3 align="center">
-  A passionate Full Stack Engineer from Brazil
+  A passionate Software Engineer from Brazil
 </h3>
 
 <p align="center">
@@ -20,9 +20,9 @@
 
 <p>
        
-  - 💼 I’m currently working on [QueroDelivery](https://querodelivery.com/) as a Software Engineer
+  - 💼 I’m currently working at [Wex](https://www.wexinc.com/) as a Software Engineer
 
-  - 🎓 I'm majoring in **Bachelor of Information Systems** at CEFET
+  - 🎓 I'm major in **Bachelor of Information Systems** at CEFET
 
   - 💻 I love **Javascript/Typescript/Node.js** ecosystem
   
