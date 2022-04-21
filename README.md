@@ -19,6 +19,7 @@
 <hr>
 
 <p>
+  
   - 👨‍💻 More than 7 years of experience in Software Development
        
   - 💼 Currently working at [Plan A Technologies](https://planatechnologies.com/) as a Software Engineer
