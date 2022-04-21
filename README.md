@@ -19,8 +19,9 @@
 <hr>
 
 <p>
+  - 👨‍💻 More than 7 years of experience in Software Development
        
-  - 💼 I’m currently working at [Plan A Technologies](https://planatechnologies.com/) as a Software Engineer
+  - 💼 Currently working at [Plan A Technologies](https://planatechnologies.com/) as a Software Engineer
 
   - 🎓 I'm major in **Bachelor of Information Systems** at CEFET
 
