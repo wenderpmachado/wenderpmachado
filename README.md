@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.tiktok.com/@wendermachadodev" alt="TikTok">
-  <img src="https://img.shields.io/badge/-TikTok-DF0174?style=for-the-badge&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@wendermachadodev"/></a>
+  <img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&link=https://www.tiktok.com/@wendermachadodev"/></a>
   
   <a href="https://www.instagram.com/wenderpmachado/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/wenderpmachado/"/></a>
