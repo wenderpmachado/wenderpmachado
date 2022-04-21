@@ -2,7 +2,7 @@
   Hi 👋, I'm Wender Machado
 </h1>
 <h3 align="center">
-  A passionate Software Engineer from Brazil
+  A passionate Software Engineer from Brazil, living in Europe!
 </h3>
 
 <p align="center">
@@ -20,7 +20,7 @@
 
 <p>
        
-  - 💼 I’m currently working at [Wex](https://www.wexinc.com/) as a Software Engineer
+  - 💼 I’m currently working at [Plan A Technologies](https://planatechnologies.com/) as a Software Engineer
 
   - 🎓 I'm major in **Bachelor of Information Systems** at CEFET
 
