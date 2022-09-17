@@ -24,6 +24,8 @@
 <p>
   
   - 👨‍💻 More than 7 years of experience in Software Development
+  
+  - 🤟 Content creator for developers who want to stand out in their careers
        
   - 💼 Currently working at [Plan A Technologies](https://planatechnologies.com/) as a Software Engineer
 
