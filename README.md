@@ -2,7 +2,7 @@
   Hi 👋, I'm Wender Machado
 </h1>
 <h3 align="center">
-  A passionate Software Engineer from Brazil, living in Europe! 🌍
+  A passionate Software Engineer from Brazil, living around the world! 🌍
 </h3>
 
 <p align="center">
