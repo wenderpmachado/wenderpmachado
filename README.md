@@ -17,6 +17,8 @@
 
   <a href="mailto:wenderpmachado@gmail.com" alt="Facebook">
   <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:wenderpmachado@gmail.com"/></a>
+  
+  <img src="https://komarev.com/ghpvc/?username=wenderpmachado&style=for-the-badge&label=Views" alt="wenderpmachado" />
 </p>
 
 <hr>
@@ -88,7 +90,8 @@
 
 </td></tr></table>  
 
-<br/>  
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=wenderpmachado&show_icons=true&theme=tokyonight" alt="wenderpmachado" />
-
+<br/>
+  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wenderpmachado&show_icons=true&theme=tokyonight&style=for-the-badge" alt="wenderpmachado" />
+</p>
