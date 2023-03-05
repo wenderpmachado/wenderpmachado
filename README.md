@@ -26,10 +26,12 @@
 <p>
   
   - 👨‍💻 More than 7 years of experience in Software Development
-  
-  - 🤟 Content creator for developers who want to stand out in their careers
        
   - 💼 Currently working at [Plan A Technologies](https://planatechnologies.com/) as a Software Engineer
+  
+  - 🤟 Content creator for developers who want to stand out in their careers
+  
+  - 🧲 Creator of [MDM](https://www.geracaodev.com.br/mdm?utm_source=github), where I share all my knowledge to achieve my goals in Software Development career (🇵🇹-🇧🇷)
 
   - 🎓 I'm major in **Bachelor of Information Systems** at CEFET
 
